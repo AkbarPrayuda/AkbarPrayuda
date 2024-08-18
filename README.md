@@ -14,7 +14,6 @@ I'm a fresh graduate and aspiring web developer, excited to start my journey in 
 - Building small web projects to apply what I'm learning.
 
 ### 📫 How to Reach Me
-- [LinkedIn](your-linkedin-url)
 - [Email](mailto:akbarprayudaputra21@gmail.com)
 
 ---
