@@ -1,6 +1,6 @@
 ---
 
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm [Akbar Prayuda Putra]!
 
 I'm a fresh graduate and aspiring web developer, excited to start my journey in tech. I enjoy learning new things and building simple projects to improve my skills.
 
